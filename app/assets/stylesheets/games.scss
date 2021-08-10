@@ -1,0 +1,47 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+h1 {
+  margin-left: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 40px;
+}
+
+ul li {
+  display: inline-block;
+  font-family: courier, monospace;
+  text-align: center;
+  font-size: 45px;
+  color: #FFFFFF;
+  background-color: #267DF6;
+  border: 1px solid #114691;
+  box-shadow: 2px 2px 5px gray;
+  width: 60px;
+  height: 60px;
+  margin: 5px;
+  padding: 10px;
+}
+
+p {
+  margin-left: 40px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+}
+
+.bar {
+  padding: 15px 0;
+  border-radius: 5px;
+  border-color: rgb(165, 163, 163);
+  width: 980px;
+  margin-left: 40px;
+}
+
+.button {
+  padding: 15px 20px;
+  border-radius: 0px 6px 6px 0px;
+  border-color: rgb(165, 163, 163);
+  margin-left: -10px;
+  background-color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
